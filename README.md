@@ -3,8 +3,8 @@
 The purpose of this analysis is to use deep-learning neural networks with the TensorFlow so we can analyze and classify the success of charitable donations.
 We use the following methods for the analysis:
 
-- Preprocessing the data for the neural network model,
-- Compile, train and evaluate the model,
+- Preprocessing the data for the neural network model.
+- Compile, train and evaluate the model.
 - Optimize the model.
 ## Results
 
