@@ -13,7 +13,7 @@ We use the following methods for the analysis:
 **The column IS_SUCCESSFUL is considered as the target for our deep learning neural network.**
 - What variable(s) are considered to be the features for your model?  
 **The following columns APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT.**  
-- What variable(s) are neither targets nor features, and should be removed from the input data?  
+- What variable(s) are neither targets nor features, and shuld be removed from the input data?  
 **EIN and NAME** 
 
 ### Compiling, Training, and Evaluating the Model
